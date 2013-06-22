@@ -1,0 +1,14 @@
+/*
+Theme Name:     Response Awake
+Theme URI:      http://awakening-dreams.com/
+Description:    Child theme for the Responsive Theme for awakening-dreams
+Author:         Mike Blevins
+Author URI:     http://wabbitinc.com/about
+Template:       responsive                             
+Version:        0.1.0
+*/
+@import url("../responsive/style.css");
+
+.post-title { 
+  display: none 
+}
